@@ -1,0 +1,888 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:x_astrocal19
+PRODID:-//cc//Emacs with Org mode//EN
+X-WR-TIMEZONE:+03
+X-WR-CALDESC:
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-dc12b105-3f1c-4388-99bd-dd9479b4f84e
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+SUMMARY:Quadrantids Meteor Shower
+DESCRIPTION:<2019-01-03 Thu> January 3\, 4 The Quadrantids is an above aver
+ age\nshower\, with up to 40 meteors per hour at its peak. It is thought to
+ \nbe produced by dust grains left behind by an extinct comet known as\n200
+ 3 EH1\, which was discovered in 2003. The shower runs annually from\nJanua
+ ry 1-5. It peaks this year on the night of the 3rd and morning of\nthe 4th
+ .  The moon will be a thin crescent and should not interfere\nwith what co
+ uld be a good show this year. Best viewing will be from a\ndark location a
+ fter midnight. Meteors will radiate from the\nconstellation Bootes\, but c
+ an appear anywhere in the sky.  (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-e90e2e21-f258-44ae-93dd-3de03c3d54ad
+DTSTART:20190106T012800
+DTEND:20190106T032800
+SUMMARY:New Moon
+DESCRIPTION:<2019-01-06 Sun 01:28> January 6 The Moon will located on the s
+ ame\nside of the Earth as the Sun and will not be visible in the night\nsk
+ y. This phase occurs at 01:28 UTC. This is the best time of the\nmonth to 
+ observe faint objects such as galaxies and star clusters\nbecause there is
+  no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-aaf003e2-1584-4f88-9af1-a3376f1cc704
+DTSTART;VALUE=DATE:20190106
+DTEND;VALUE=DATE:20190107
+SUMMARY:Venus at Greatest Western Elongation
+DESCRIPTION:<2019-01-06 Sun> January 6 The planet Venus reaches greatest\ne
+ astern elongation of 47 degrees from the Sun. This is the best time\nto vi
+ ew Venus since it will be at its highest point above the horizon\nin the m
+ orning sky. Look for the bright planet in the eastern sky\nbefore sunrise.
+   (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-6e6ac1f1-8750-4e73-a26d-a10044290d6b
+DTSTART;VALUE=DATE:20190106
+DTEND;VALUE=DATE:20190107
+SUMMARY:Partial Solar Eclipse
+DESCRIPTION:<2019-01-06 Sun> January 6 A partial solar eclipse occurs when 
+ the\nMoon covers only a part of the Sun\, sometimes resembling a bite take
+ n\nout of a cookie. A partial solar eclipse can only be safely observed\nw
+ ith a special solar filter or by looking at the Sun's reflection. The\npar
+ tial eclipse will be visible in parts of eastern Asia and the\nnorthern Pa
+ cific Ocean. It will be best seen from northeastern Russia\nwith 62% cover
+ age.  (NASA Map and Eclipse Information) (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-c5cdb96e-24a1-4528-80fc-dc66eff1fa5b
+DTSTART:20190121T051600
+DTEND:20190121T071600
+SUMMARY:Full Moon\, Supermoon
+DESCRIPTION:<2019-01-21 Mon 05:16> January 21 The Moon will be located on t
+ he\nopposite side of the Earth as the Sun and its face will be will be\nfu
+ lly illuminated. This phase occurs at 05:16 UTC. This full moon was\nknown
+  by early Native American tribes as the Full Wolf Moon because\nthis was t
+ he time of year when hungry wolf packs howled outside their\ncamps. This m
+ oon has also been know as the Old Moon and the Moon After\nYule. This is a
+ lso the first of three supermoons for 2019. The Moon\nwill be at its close
+ st approach to the Earth and may look slightly\nlarger and brighter than u
+ sual.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-a63c272e-6c32-4c23-88ad-9833cf4ebdae
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+SUMMARY:Conjunction of Venus and Jupiter
+DESCRIPTION:<2019-01-22 Tue> January 22 A conjunction of Venus and Jupiter 
+ will\nbe visible on January 22. The two bright planets will be visible\nwi
+ thin 2.4 degrees of each other in the early morning sky. Look for\nthis im
+ pressive sight in the east just before sunrise.  (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-edf39c5a-3a63-469e-bb7c-c13a83206838
+DTSTART;VALUE=DATE:20190120
+DTEND;VALUE=DATE:20190121
+SUMMARY:Total Lunar Eclipse
+DESCRIPTION:<2019-01-20 Sun> January 20 & 21 A total lunar eclipse occurs w
+ hen\nthe Moon passes completely through the Earth's dark shadow\, or\numbr
+ a. During this type of eclipse\, the Moon will gradually get darker\nand t
+ hen take on a rusty or blood red color. The eclipse will be\nvisible throu
+ ghout most of North America\, South America\, the eastern\nPacific Ocean\,
+  western Atlantic Ocean\, extreme western Europe\, and\nextreme western Af
+ rica.  (NASA Map and Eclipse Information)\n(copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-8cb95130-7985-4bf8-8853-244f71ce3545
+DTSTART:20190204T210300
+DTEND:20190204T230300
+SUMMARY:New Moon
+DESCRIPTION:<2019-02-04 Mon 21:03> February 4 The Moon will located on the 
+ same\nside of the Earth as the Sun and will not be visible in the night\ns
+ ky. This phase occurs at 21:03 UTC. This is the best time of the\nmonth to
+  observe faint objects such as galaxies and star clusters\nbecause there i
+ s no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-449653b7-f9ed-4756-9e71-cb8cb9d2d0b9
+DTSTART:20190219T155300
+DTEND:20190219T175300
+SUMMARY:Full Moon\, Supermoon
+DESCRIPTION:<2019-02-19 Tue 15:53> February 19 The Moon will be located on 
+ the\nopposite side of the Earth as the Sun and its face will be will be\nf
+ ully illuminated. This phase occurs at 15:53 UTC. This full moon was\nknow
+ n by early Native American tribes as the Full Snow Moon because\nthe heavi
+ est snows usually fell during this time of the year. Since\nhunting is dif
+ ficult\, this moon has also been known by some tribes as\nthe Full Hunger 
+ Moon\, since the harsh weather made hunting\ndifficult. This is also the s
+ econd of three supermoons for 2019. The\nMoon will be at its closest appro
+ ach to the Earth and may look\nslightly larger and brighter than usual.  (
+ copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-d178e616-b2d6-48a2-bad1-416c956d188e
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+SUMMARY:Mercury at Greatest Eastern Elongation
+DESCRIPTION:<2019-02-27 Wed> February 27 The planet Mercury reaches greates
+ t\neastern elongation of 18.1 degrees from the Sun. This is the best time\
+ nto view Mercury since it will be at its highest point above the\nhorizon 
+ in the evening sky. Look for the planet low in the western sky\njust after
+  sunset.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-ef0cd06e-ef80-4ca4-9b27-a017b0189a42
+DTSTART:20190306T160400
+DTEND:20190306T180400
+SUMMARY:New Moon
+DESCRIPTION:<2019-03-06 Wed 16:04> March 6 The Moon will located on the sam
+ e\nside of the Earth as the Sun and will not be visible in the night\nsky.
+  This phase occurs at 16:04 UTC. This is the best time of the\nmonth to ob
+ serve faint objects such as galaxies and star clusters\nbecause there is n
+ o moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-092695f8-4af4-41c2-a6ba-6c86454f15f4
+DTSTART:20190320T215800
+DTEND:20190320T235800
+SUMMARY:March Equinox
+DESCRIPTION:<2019-03-20 Wed 21:58> March 20 The March equinox occurs at 21:
+ 58\nUTC. The Sun will shine directly on the equator and there will be\nnea
+ rly equal amounts of day and night throughout the world. This is\nalso the
+  first day of spring (vernal equinox) in the Northern\nHemisphere and the 
+ first day of fall (autumnal equinox) in the\nSouthern Hemisphere.  (copyri
+ ght: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-86449b11-5d51-4fe8-9d61-df9b76f3e5c8
+DTSTART:20190321T014300
+DTEND:20190321T034300
+SUMMARY:Full Moon\, Supermoon
+DESCRIPTION:<2019-03-21 Thu 01:43> March 21 The Moon will be located on the
+ \nopposite side of the Earth as the Sun and its face will be will be\nfull
+ y illuminated. This phase occurs at 01:43 UTC. This full moon was\nknown b
+ y early Native American tribes as the Full Worm Moon because\nthis was the
+  time of year when the ground would begin to soften and\nthe earthworms wo
+ uld reappear. This moon has also been known as the\nFull Crow Moon\, the F
+ ull Crust Moon\, the Full Sap Moon\, and the Lenten\nMoon. This is also th
+ e last of three supermoons for 2019. The Moon\nwill be at its closest appr
+ oach to the Earth and may look slightly\nlarger and brighter than usual.  
+ (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-a250637a-64be-419b-9c6a-cf97143f8bbd
+DTSTART:20190405T085100
+DTEND:20190405T105100
+SUMMARY:New Moon
+DESCRIPTION:<2019-04-05 Fri 08:51> April 5 The Moon will located on the sam
+ e\nside of the Earth as the Sun and will not be visible in the night\nsky.
+  This phase occurs at 08:51 UTC. This is the best time of the\nmonth to ob
+ serve faint objects such as galaxies and star clusters\nbecause there is n
+ o moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-90250cf2-2264-40d2-af41-cc045c82d9a1
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+SUMMARY:Mercury at Greatest Western Elongation
+DESCRIPTION:<2019-04-11 Thu> April 11 The planet Mercury reaches greatest\n
+ western elongation of 27.7 degrees from the Sun. This is the best time\nto
+  view Mercury since it will be at its highest point above the\nhorizon in 
+ the morning sky. Look for the planet low in the eastern sky\njust before s
+ unrise.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-8c1c63a4-f57e-42bb-9df8-a5980e2b679e
+DTSTART:20190419T111200
+DTEND:20190419T131200
+SUMMARY:Full Moon
+DESCRIPTION:<2019-04-19 Fri 11:12> April 19 The Moon will be located on the
+ \nopposite side of the Earth as the Sun and its face will be will be\nfull
+ y illuminated. This phase occurs at 11:12 UTC. This full moon was\nknown b
+ y early Native American tribes as the Full Pink Moon because it\nmarked th
+ e appearance of the moss pink\, or wild ground phlox\, which is\none of th
+ e first spring flowers. This moon has also been known as the\nSprouting Gr
+ ass Moon\, the Growing Moon\, and the Egg Moon. Many coastal\ntribes calle
+ d it the Full Fish Moon because this was the time that the\nshad swam upst
+ ream to spawn.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-33eac738-5807-4173-8512-a81754b24b08
+DTSTART;VALUE=DATE:20190422
+DTEND;VALUE=DATE:20190423
+SUMMARY:Lyrids Meteor Shower
+DESCRIPTION:<2019-04-22 Mon> April 22\, 23 The Lyrids is an average shower\
+ ,\nusually producing about 20 meteors per hour at its peak. It is\nproduce
+ d by dust particles left behind by comet C/1861 G1 Thatcher\,\nwhich was d
+ iscovered in 1861. The shower runs annually from April\n16-25. It peaks th
+ is year on the night of the night of the 22nd and\nmorning of the 23rd. Th
+ ese meteors can sometimes produce bright dust\ntrails that last for severa
+ l seconds.  The waning gibbous moon will\nblock out many of the fainter me
+ teors this year\, but if you are\npatient you should still be able to catc
+ h a few of the brightest\nones. Best viewing will be from a dark location 
+ after\nmidnight. Meteors will radiate from the constellation Lyra\, but ca
+ n\nappear anywhere in the sky.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-aa4b261e-f29a-4095-9a08-1489599574d6
+DTSTART:20190504T224600
+DTEND:20190505T004600
+SUMMARY:New Moon
+DESCRIPTION:<2019-05-04 Sat 22:46> May 4 The Moon will located on the same 
+ side\nof the Earth as the Sun and will not be visible in the night sky. Th
+ is\nphase occurs at 22:46 UTC. This is the best time of the month to\nobse
+ rve faint objects such as galaxies and star clusters because there\nis no 
+ moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-3bdf0c45-56f9-402a-be58-8423316d5c42
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+SUMMARY:Eta Aquarids Meteor Shower
+DESCRIPTION:<2019-05-06 Mon> May 6\, 7 The Eta Aquarids is an above average
+ \nshower\, capable of producing up to 60 meteors per hour at its\npeak. Mo
+ st of the activity is seen in the Southern Hemisphere. In the\nNorthern He
+ misphere\, the rate can reach about 30 meteors per hour. It\nis produced b
+ y dust particles left behind by comet Halley\, which has\nknown and observ
+ ed since ancient times. The shower runs annually from\nApril 19 to May 28.
+  It peaks this year on the night of May 6 and the\nmorning of the May 7. T
+ he thin crescent moon will set early in the\nevening leaving dark skies fo
+ r what should be a good show. Best\nviewing will be from a dark location a
+ fter midnight. Meteors will\nradiate from the constellation Aquarius\, but
+  can appear anywhere in\nthe sky.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-33e3854d-8c39-4b99-b90c-e8c53b142863
+DTSTART:20190518T211100
+DTEND:20190518T231100
+SUMMARY:Full Moon\, Blue Moon
+DESCRIPTION:<2019-05-18 Sat 21:11> May 18 The Moon will be located on the\n
+ opposite side of the Earth as the Sun and its face will be will be\nfully 
+ illuminated. This phase occurs at 21:11 UTC. This full moon was\nknown by 
+ early Native American tribes as the Full Flower Moon because\nthis was the
+  time of year when spring flowers appeared in\nabundance. This moon has al
+ so been known as the Full Corn Planting\nMoon and the Milk Moon. Since thi
+ s is the third of four full moons in\nthis season\, it is known as a blue 
+ moon. This rare calendar event only\nhappens once every few years\, giving
+  rise to the term\, “once in a blue\nmoon.” There are normally only three 
+ full moons in each season of the\nyear. But since full moons occur every 2
+ 9.53 days\, occasionally a\nseason will contain 4 full moons. The extra fu
+ ll moon of the season is\nknown as a blue moon. Blue moons occur on averag
+ e once every 2.7\nyears.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-971f2154-12af-4f37-bcd4-5e4ebf448b73
+DTSTART:20190603T100200
+DTEND:20190603T120200
+SUMMARY:New Moon
+DESCRIPTION:<2019-06-03 Mon 10:02> June 3 The Moon will located on the same
+ \nside of the Earth as the Sun and will not be visible in the night\nsky. 
+ This phase occurs at 10:02 UTC. This is the best time of the\nmonth to obs
+ erve faint objects such as galaxies and star clusters\nbecause there is no
+  moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-3fa7c487-ef39-4e17-a082-be7490a17649
+DTSTART;VALUE=DATE:20190610
+DTEND;VALUE=DATE:20190611
+SUMMARY:Jupiter at Opposition
+DESCRIPTION:<2019-06-10 Mon> June 10 The giant planet will be at its closes
+ t\napproach to Earth and its face will be fully illuminated by the\nSun. I
+ t will be brighter than any other time of the year and will be\nvisible al
+ l night long. This is the best time to view and photograph\nJupiter and it
+ s moons. A medium-sized telescope should be able to show\nyou some of the 
+ details in Jupiter's cloud bands. A good pair of\nbinoculars should allow 
+ you to see Jupiter's four largest moons\,\nappearing as bright dots on eit
+ her side of the planet.  (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-ef552527-575a-4b90-9d02-a69d7d50445f
+DTSTART:20190617T083100
+DTEND:20190617T103100
+SUMMARY:Full Moon
+DESCRIPTION:<2019-06-17 Mon 08:31> June 17 The Moon will be located on the\
+ nopposite side of the Earth as the Sun and its face will be will be\nfully
+  illuminated. This phase occurs at 08:31 UTC. This full moon was\nknown by
+  early Native American tribes as the Full Strawberry Moon\nbecause it sign
+ aled the time of year to gather ripening fruit. It also\ncoincides with th
+ e peak of the strawberry harvesting season. This moon\nhas also been known
+  as the Full Rose Moon and the Full Honey Moon.\n(copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-9b7954a8-6398-487b-8af3-c65866fad0b5
+DTSTART:20190621T155400
+DTEND:20190621T175400
+SUMMARY:June Solstice
+DESCRIPTION:<2019-06-21 Fri 15:54> June 21 The June solstice occurs at 15:5
+ 4\nUTC. The North Pole of the earth will be tilted toward the Sun\, which\
+ nwill have reached its northernmost position in the sky and will be\ndirec
+ tly over the Tropic of Cancer at 23.44 degrees north\nlatitude. This is th
+ e first day of summer (summer solstice) in the\nNorthern Hemisphere and th
+ e first day of winter (winter solstice) in\nthe Southern Hemisphere.  (cop
+ yright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-df52ea30-04e8-4362-8f83-1415726a5f65
+DTSTART;VALUE=DATE:20190623
+DTEND;VALUE=DATE:20190624
+SUMMARY:Mercury at Greatest Eastern Elongation
+DESCRIPTION:<2019-06-23 Sun> June 23 The planet Mercury reaches greatest\ne
+ astern elongation of 25.2 degrees from the Sun. This is the best time\nto 
+ view Mercury since it will be at its highest point above the\nhorizon in t
+ he evening sky. Look for the planet low in the western sky\njust after sun
+ set.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-7ac454ce-4da0-4f78-b4aa-e35f1677bb38
+DTSTART:20190702T191600
+DTEND:20190702T211600
+SUMMARY:New Moon
+DESCRIPTION:<2019-07-02 Tue 19:16> July 2 The Moon will located on the same
+ \nside of the Earth as the Sun and will not be visible in the night\nsky. 
+ This phase occurs at 19:16 UTC. This is the best time of the\nmonth to obs
+ erve faint objects such as galaxies and star clusters\nbecause there is no
+  moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-85131105-3633-45e3-8463-aad3aa0669ad
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+SUMMARY:Total Solar Eclipse
+DESCRIPTION:<2019-07-02 Tue> July 2 A total solar eclipse occurs when the m
+ oon\ncompletely blocks the Sun\, revealing the Sun's beautiful outer\natmo
+ sphere known as the corona. The path of totality will only be\nvisible in 
+ parts of the southern pacific Ocean\, central Chile\, and\ncentral Argenti
+ na. A partial eclipse will be visible in most parts of\nthe southern Pacif
+ ic Ocean and western South America. (NASA Map and\nEclipse Information) (N
+ ASA Interactive Google Map) (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-2be7e831-2a88-4e56-8b80-871a14cb901a
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+SUMMARY:Saturn at Opposition
+DESCRIPTION:<2019-07-09 Tue> July 9 The ringed planet will be at its closes
+ t\napproach to Earth and its face will be fully illuminated by the\nSun. I
+ t will be brighter than any other time of the year and will be\nvisible al
+ l night long. This is the best time to view and photograph\nSaturn and its
+  moons. A medium-sized or larger telescope will allow\nyou to see Saturn's
+  rings and a few of its brightest moons.\n(copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-d5a08fc1-228d-4c5e-bd89-26c14581b5fc
+DTSTART:20190716T213800
+DTEND:20190716T233800
+SUMMARY:Full Moon
+DESCRIPTION:<2019-07-16 Tue 21:38> July 16 The Moon will be located on the\
+ nopposite side of the Earth as the Sun and its face will be will be\nfully
+  illuminated. This phase occurs at 21:38 UTC. This full moon was\nknown by
+  early Native American tribes as the Full Buck Moon because\nthe male buck
+  deer would begin to grow their new antlers at this time\nof year. This mo
+ on has also been known as the Full Thunder Moon and\nthe Full Hay Moon.  (
+ copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-a5deaf04-b350-4c4a-a516-c9f270e1266b
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+SUMMARY:Partial Lunar Eclipse
+DESCRIPTION:<2019-07-16 Tue> July 16 A partial lunar eclipse occurs when th
+ e\nMoon passes through the Earth's partial shadow\, or penumbra\, and only
+ \na portion of it passes through the darkest shadow\, or umbra. During\nth
+ is type of eclipse a part of the Moon will darken as it moves\nthrough the
+  Earth's shadow. The eclipse will be visible throughout\nmost of Europe\, 
+ Africa\, central Asia\, and the Indian Ocean. (NASA Map\nand Eclipse Infor
+ mation) (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-0072e986-7ff1-4687-9496-2dd8ce3415f3
+DTSTART;VALUE=DATE:20190728
+DTEND;VALUE=DATE:20190729
+SUMMARY:Delta Aquarids Meteor Shower
+DESCRIPTION:<2019-07-28 Sun> July 28\, 29 The Delta Aquarids is an average\
+ nshower that can produce up to 20 meteors per hour at its peak. It is\npro
+ duced by debris left behind by comets Marsden and Kracht. The\nshower runs
+  annually from July 12 to August 23. It peaks this year on\nthe night of J
+ uly 28 and morning of July 29. The waning crescent moon\nwill not be too m
+ uch of a problem this year. The skies should be dark\nenough for what coul
+ d be a good show. Best viewing will be from a dark\nlocation after midnigh
+ t. Meteors will radiate from the constellation\nAquarius\, but can appear 
+ anywhere in the sky.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-06bbfe82-91fe-4c96-9a8b-6a61c6239ef4
+DTSTART:20190801T031200
+DTEND:20190801T051200
+SUMMARY:New Moon
+DESCRIPTION:<2019-08-01 Thu 03:12> August 1 The Moon will located on the sa
+ me\nside of the Earth as the Sun and will not be visible in the night\nsky
+ . This phase occurs at 03:12 UTC. This is the best time of the\nmonth to o
+ bserve faint objects such as galaxies and star clusters\nbecause there is 
+ no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-64e406e5-d6cd-4ac4-a230-0bea264b51b3
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+SUMMARY:Mercury at Greatest Western Elongation
+DESCRIPTION:<2019-08-09 Fri> August 9 The planet Mercury reaches greatest\n
+ western elongation of 19.0 degrees from the Sun. This is the best time\nto
+  view Mercury since it will be at its highest point above the\nhorizon in 
+ the morning sky. Look for the planet low in the eastern sky\njust before s
+ unrise.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-d5ab41b7-2bef-43bc-b2ba-2bdc93b4ad48
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+SUMMARY:Perseids Meteor Shower
+DESCRIPTION:<2019-08-12 Mon> August 12\, 13 The Perseids is one of the best
+ \nmeteor showers to observe\, producing up to 60 meteors per hour at its\n
+ peak. It is produced by comet Swift-Tuttle\, which was discovered in\n1862
+ . The Perseids are famous for producing a large number of bright\nmeteors.
+  The shower runs annually from July 17 to August 24. It peaks\nthis year o
+ n the night of August 12 and the morning of August 13. The\nnearly full mo
+ on will block out most of the fainter meteors this year\,\nbut the Perseid
+ s are so bright and numerous that it could still be a\ngood show. Best vie
+ wing will be from a dark location after\nmidnight. Meteors will radiate fr
+ om the constellation Perseus\, but can\nappear anywhere in the sky.  (copy
+ right: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-9f96d12d-60cc-4718-80d3-f48ca50d4697
+DTSTART:20190815T123000
+DTEND:20190815T143000
+SUMMARY:Full Moon
+DESCRIPTION:<2019-08-15 Thu 12:30> August 15 The Moon will be located on th
+ e\nopposite side of the Earth as the Sun and its face will be will be\nful
+ ly illuminated. This phase occurs at 12:30 UTC. This full moon was\nknown 
+ by early Native American tribes as the Full Sturgeon Moon\nbecause the lar
+ ge sturgeon fish of the Great Lakes and other major\nlakes were more easil
+ y caught at this time of year. This moon has also\nbeen known as the Green
+  Corn Moon and the Grain Moon.  (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-5d4aaec9-978b-49e6-b24e-71fd44c69a4b
+DTSTART:20190830T103700
+DTEND:20190830T123700
+SUMMARY:New Moon
+DESCRIPTION:<2019-08-30 Fri 10:37> August 30 The Moon will located on the s
+ ame\nside of the Earth as the Sun and will not be visible in the night\nsk
+ y. This phase occurs at 10:37 UTC. This is the best time of the\nmonth to 
+ observe faint objects such as galaxies and star clusters\nbecause there is
+  no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-f0744250-2933-4c2c-bae7-58912e876947
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+SUMMARY:Neptune at Opposition
+DESCRIPTION:<2019-09-09 Mon> September 9 The blue giant planet will be at i
+ ts\nclosest approach to Earth and its face will be fully illuminated by\nt
+ he Sun. It will be brighter than any other time of the year and will\nbe v
+ isible all night long. This is the best time to view and\nphotograph Neptu
+ ne. Due to its extreme distance from Earth\, it will\nonly appear as a tin
+ y blue dot in all but the most powerful\ntelescopes.  (copyright: seasky.o
+ rg)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-926efac4-e04e-48cb-9bf6-b761c5b0d589
+DTSTART:20190914T043400
+DTEND:20190914T063400
+SUMMARY:Full Moon
+DESCRIPTION:<2019-09-14 Sat 04:34> September 14 The Moon will be located on
+  the\nopposite side of the Earth as the Sun and its face will be will be\n
+ fully illuminated. This phase occurs at 04:34 UTC. This full moon was\nkno
+ wn by early Native American tribes as the Full Corn Moon because\nthe corn
+  is harvested around this time of year. This moon is also\nknown as the Ha
+ rvest Moon. The Harvest Moon is the full moon that\noccurs closest to the 
+ September equinox each year.  (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-e3a8ed8d-2b66-4bea-a026-4bedb5be8deb
+DTSTART:20190923T075000
+DTEND:20190923T095000
+SUMMARY:September Equinox
+DESCRIPTION:<2019-09-23 Mon 07:50> September 23 The September equinox occur
+ s at\n07:50 UTC. The Sun will shine directly on the equator and there will
+ \nbe nearly equal amounts of day and night throughout the world. This is\n
+ also the first day of fall (autumnal equinox) in the Northern\nHemisphere 
+ and the first day of spring (vernal equinox) in the\nSouthern Hemisphere. 
+  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-66ec2863-0cc2-4788-a854-3cc7af40d104
+DTSTART:20190928T182600
+DTEND:20190928T202600
+SUMMARY:New Moon
+DESCRIPTION:<2019-09-28 Sat 18:26> September 28 The Moon will located on th
+ e\nsame side of the Earth as the Sun and will not be visible in the night\
+ nsky. This phase occurs at 18:26 UTC. This is the best time of the\nmonth 
+ to observe faint objects such as galaxies and star clusters\nbecause there
+  is no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-78114183-c3d7-4543-906a-bf7c69875bb5
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+SUMMARY:Draconids Meteor Shower
+DESCRIPTION:<2019-10-08 Tue> October 8 The Draconids is a minor meteor show
+ er\nproducing only about 10 meteors per hour. It is produced by dust\ngrai
+ ns left behind by comet 21P Giacobini-Zinner\, which was first\ndiscovered
+  in 1900. The Draconids is an unusual shower in that the\nbest viewing is 
+ in the early evening instead of early morning like\nmost other showers. Th
+ e shower runs annually from October 6-10 and\npeaks this year on the the n
+ ight of the 8th. The first quarter moon\nwill set shortly after midnight l
+ eaving fairly dark skies for\nobserving. Best viewing will be in the early
+  evening from a dark\nlocation far away from city lights. Meteors will rad
+ iate from the\nconstellation Draco\, but can appear anywhere in the sky.  
+ (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-6d419670-7bec-4779-9d46-ba46080be15b
+DTSTART:20191013T210900
+DTEND:20191013T230900
+SUMMARY:Full Moon
+DESCRIPTION:<2019-10-13 Sun 21:09> October 13 The Moon will be located on t
+ he\nopposite side of the Earth as the Sun and its face will be will be\nfu
+ lly illuminated. This phase occurs at 21:09 UTC. This full moon was\nknown
+  by early Native American tribes as the Full Hunters Moon because\nat this
+  time of year the leaves are falling and the game is fat and\nready to hun
+ t. This moon has also been known as the Travel Moon and\nthe Blood Moon.  
+ (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-e0ffbe01-0173-40a9-89cd-5fe55f77b451
+DTSTART;VALUE=DATE:20191020
+DTEND;VALUE=DATE:20191021
+SUMMARY:Mercury at Greatest Eastern Elongation
+DESCRIPTION:<2019-10-20 Sun> October 20 The planet Mercury reaches greatest
+ \neastern elongation of 24.6 degrees from the Sun. This is the best time\n
+ to view Mercury since it will be at its highest point above the\nhorizon i
+ n the evening sky. Look for the planet low in the western sky\njust after 
+ sunset.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-89245aef-69da-41b4-9778-e9b1853398c1
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+SUMMARY:Orionids Meteor Shower
+DESCRIPTION:<2019-10-21 Mon> October 21\, 22 The Orionids is an average sho
+ wer\nproducing up to 20 meteors per hour at its peak. It is produced by\nd
+ ust grains left behind by comet Halley\, which has been known and\nobserve
+ d since ancient times. The shower runs annually from October 2\nto Novembe
+ r 7. It peaks this year on the night of October 21 and the\nmorning of Oct
+ ober 22. The second quarter moon will block some of the\nfainter meteors t
+ his year\, but the Orionids tend to be fairly bright\nso it could still be
+  a good show. Best viewing will be from a dark\nlocation after midnight. M
+ eteors will radiate from the constellation\nOrion\, but can appear anywher
+ e in the sky.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-e19b3a9b-bfcb-4db5-afd6-4b21453ada44
+DTSTART;VALUE=DATE:20191027
+DTEND;VALUE=DATE:20191028
+SUMMARY:Uranus at Opposition
+DESCRIPTION:<2019-10-27 Sun> October 27 The blue-green planet will be at it
+ s\nclosest approach to Earth and its face will be fully illuminated by\nth
+ e Sun. It will be brighter than any other time of the year and will\nbe vi
+ sible all night long. This is the best time to view Uranus. Due\nto its di
+ stance\, it will only appear as a tiny blue-green dot in all\nbut the most
+  powerful telescopes.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-b4518f36-0149-4480-8b36-33965688f4f8
+DTSTART:20191028T033900
+DTEND:20191028T053900
+SUMMARY:New Moon
+DESCRIPTION:<2019-10-28 Mon 03:39> October 28 The Moon will located on the 
+ same\nside of the Earth as the Sun and will not be visible in the night\ns
+ ky. This phase occurs at 03:39 UTC. This is the best time of the\nmonth to
+  observe faint objects such as galaxies and star clusters\nbecause there i
+ s no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-fcd4e84c-6b7d-4fc0-8602-46e7d47cf421
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+SUMMARY:Taurids Meteor Shower
+DESCRIPTION:<2019-11-05 Tue> November 5\, 6 The Taurids is a long-running m
+ inor\nmeteor shower producing only about 5-10 meteors per hour. It is\nunu
+ sual in that it consists of two separate streams. The first is\nproduced b
+ y dust grains left behind by Asteroid 2004 TG10. The second\nstream is pro
+ duced by debris left behind by Comet 2P Encke. The shower\nruns annually f
+ rom September 7 to December 10. It peaks this year on\nthe the night of No
+ vember 5. The first quarter moon will set shortly\nafter midnight leaving 
+ dark skies for viewing. Best viewing will be\njust after midnight from a d
+ ark location far away from city\nlights. Meteors will radiate from the con
+ stellation Taurus\, but can\nappear anywhere in the sky.  (copyright: seas
+ ky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-b0b5ed57-7bcc-461d-bc1f-7ee53a563952
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+SUMMARY:Rare Transit of Mercury Across the Sun
+DESCRIPTION:<2019-11-11 Mon> November 11 The planet Mercury will move direc
+ tly\nbetween the Earth and the Sun. Viewers with telescopes and approved\n
+ solar filters will be able to observe the dark disk of the planet\nMercury
+  moving across the face of the Sun. This is an extremely rare\nevent that 
+ occurs only once every few years. The next transit of\nMercury will not ta
+ ke place until 2039. This transit will be visible\nthroughout all of South
+  America and Central America\, and parts of\nNorth America\, Mexico\, Euro
+ pe\, the Middle East\, and Africa. The best\nplace to view this event in i
+ ts entirety will be the eastern United\nStates\, Central America\, and Sou
+ th America. (Transit Visibility Map\nand Information) (copyright: seasky.o
+ rg)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-be648ab3-4d59-4bbb-b8db-3cbee0119355
+DTSTART:20191112T133600
+DTEND:20191112T153600
+SUMMARY:Full Moon
+DESCRIPTION:<2019-11-12 Tue 13:36> November 12 The Moon will be located on 
+ the\nopposite side of the Earth as the Sun and its face will be will be\nf
+ ully illuminated. This phase occurs at 13:36 UTC. This full moon was\nknow
+ n by early Native American tribes as the Full Beaver Moon because\nthis wa
+ s the time of year to set the beaver traps before the swamps\nand rivers f
+ roze. It has also been known as the Frosty Moon and the\nHunter's Moon.  (
+ copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-7863665d-1d66-45f2-ad08-bdbd89ad9c44
+DTSTART;VALUE=DATE:20191117
+DTEND;VALUE=DATE:20191118
+SUMMARY:Leonids Meteor Shower
+DESCRIPTION:<2019-11-17 Sun> November 17\, 18 The Leonids is an average sho
+ wer\,\nproducing up to 15 meteors per hour at its peak. This shower is uni
+ que\nin that it has a cyclonic peak about every 33 years where hundreds of
+ \nmeteors per hour can be seen. That last of these occurred in 2001. The\n
+ Leonids is produced by dust grains left behind by comet Tempel-Tuttle\,\nw
+ hich was discovered in 1865. The shower runs annually from November\n6-30.
+  It peaks this year on the night of the 17th and morning of the\n18th. The
+  second quarter moon will block many of the fainter meteors\nthis year\, b
+ ut if you are patient you should be able to catch quite a\nfew of the brig
+ htest ones. Best viewing will be from a dark location\nafter midnight. Met
+ eors will radiate from the constellation Leo\, but\ncan appear anywhere in
+  the sky.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-085273eb-dd46-4105-bf03-3a9850bda05e
+DTSTART;VALUE=DATE:20191124
+DTEND;VALUE=DATE:20191125
+SUMMARY:Conjunction of Venus and Jupiter
+DESCRIPTION:<2019-11-24 Sun> November 24 A conjunction of Venus and Jupiter
+ \nwill be visible on November 24. The two bright planets will be visible\n
+ within 1.4 degrees of each other in the evening sky. Look for this\nimpres
+ sive sight in the western sky just after sunset.  (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-5455dbcf-3766-490e-be85-123242b5f24f
+DTSTART:20191126T150600
+DTEND:20191126T170600
+SUMMARY:New Moon
+DESCRIPTION:<2019-11-26 Tue 15:06> November 26 The Moon will located on the
+ \nsame side of the Earth as the Sun and will not be visible in the night\n
+ sky. This phase occurs at 15:06 UTC. This is the best time of the\nmonth t
+ o observe faint objects such as galaxies and star clusters\nbecause there 
+ is no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-97b5480b-9148-4628-b023-d1d911171707
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+SUMMARY:Mercury at Greatest Western Elongation
+DESCRIPTION:<2019-11-28 Thu> November 28 The planet Mercury reaches greates
+ t\nwestern elongation of 20.1 degrees from the Sun. This is the best time\
+ nto view Mercury since it will be at its highest point above the\nhorizon 
+ in the morning sky. Look for the planet low in the eastern sky\njust befor
+ e sunrise.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-4d579ff6-be22-4e5a-9a5c-3962ab078515
+DTSTART:20191212T051400
+DTEND:20191212T071400
+SUMMARY:Full Moon
+DESCRIPTION:<2019-12-12 Thu 05:14> December 12 The Moon will be located on 
+ the\nopposite side of the Earth as the Sun and its face will be will be\nf
+ ully illuminated. This phase occurs at 05:14 UTC. This full moon was\nknow
+ n by early Native American tribes as the Full Cold Moon because\nthis is t
+ he time of year when the cold winter air settles in and the\nnights become
+  long and dark. This moon has also been known as the Full\nLong Nights Moo
+ n and the Moon Before Yule.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-eadfa8bd-a0f2-4246-8f7a-a856089905d1
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+SUMMARY:Geminids Meteor Shower
+DESCRIPTION:<2019-12-13 Fri> December 13\, 14 The Geminids is the king of t
+ he\nmeteor showers. It is considered by many to be the best shower in the\
+ nheavens\, producing up to 120 multicolored meteors per hour at its\npeak.
+  It is produced by debris left behind by an asteroid known as\n3200 Phaeth
+ on\, which was discovered in 1982. The shower runs annually\nfrom December
+  7-17. It peaks this year on the night of the 13th and\nmorning of the 14t
+ h. Unfortunately the nearly full moon will block out\nmany of the meteors 
+ this year\, but the Geminids are so bright and\nnumerous that it could sti
+ ll be a good show. Best viewing will be from\na dark location after midnig
+ ht. Meteors will radiate from the\nconstellation Gemini\, but can appear a
+ nywhere in the sky.  (copyright:\nseasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-58655761-37b9-4068-ae26-5d539ef82d28
+DTSTART:20191222T041900
+DTEND:20191222T061900
+SUMMARY:December Solstice
+DESCRIPTION:<2019-12-22 Sun 04:19> December 22 The December solstice occurs
+  at\n04:19 UTC. The South Pole of the earth will be tilted toward the Sun\
+ ,\nwhich will have reached its southernmost position in the sky and will\n
+ be directly over the Tropic of Capricorn at 23.44 degrees south\nlatitude.
+  This is the first day of winter (winter solstice) in the\nNorthern Hemisp
+ here and the first day of summer (summer solstice) in\nthe Southern Hemisp
+ here.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-411f424f-8904-4cf2-99fa-ae0849aa35df
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+SUMMARY:Ursids Meteor Shower
+DESCRIPTION:<2019-12-21 Sat> December 21\, 22 The Ursids is a minor meteor\
+ nshower producing about 5-10 meteors per hour. It is produced by dust\ngra
+ ins left behind by comet Tuttle\, which was first discovered in\n1790. The
+  shower runs annually from December 17 - 25. It peaks this\nyear on the th
+ e night of the 21st and morning of the 22nd. The waning\ncrescent moon sho
+ uld not interfere too much this year. Skies should\nstill be dark enough f
+ or what could be a good show. Best viewing will\nbe just after midnight fr
+ om a dark location far away from city\nlights. Meteors will radiate from t
+ he constellation Ursa Minor\, but\ncan appear anywhere in the sky.  (copyr
+ ight: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190413T124627Z
+UID:TS1-5e55fd4a-fb76-4623-9946-06be815ae8cf
+DTSTART:20191226T051500
+DTEND:20191226T071500
+SUMMARY:New Moon
+DESCRIPTION:<2019-12-26 Thu 05:15> December 26 The Moon will located on the
+ \nsame side of the Earth as the Sun and will not be visible in the night\n
+ sky. This phase occurs at 05:15 UTC. This is the best time of the\nmonth t
+ o observe faint objects such as galaxies and star clusters\nbecause there 
+ is no moonlight to interfere.  (copyright: seasky.org)
+CATEGORIES:x_astrocal19
+END:VEVENT
+END:VCALENDAR
