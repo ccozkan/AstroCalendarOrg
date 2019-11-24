@@ -3,7 +3,8 @@ from datetime import datetime
 import requests
 import pytz 
 
-r = requests.get('http://www.seasky.org/astronomy/astronomy-calendar-2019.html')
+year = 2020
+r = requests.get('http://www.seasky.org/astronomy/astronomy-calendar-' + str(year) + '.html')
 soup = BeautifulSoup(r.text,'html.parser')
 
 tz = pytz.timezone("Europe/Istanbul")
@@ -40,8 +41,9 @@ def month2num(month):
         return 11
     elif month == 'December':
         return 12
+
 dicto = {}
-dicto['2019'] = {}
+dicto[str(year)] = {}
 
 for event in range(0,len(events)):
     #print(event)
@@ -70,7 +72,7 @@ for event in range(0,len(events)):
 
 
 
-    with open("x_astrocal19.org", "a") as myfile:
+    with open("x_astrocal" + str(year)[2:] + ".org", "a") as myfile:
         myfile.write('* ' + t +'\n')
 
 
@@ -78,9 +80,9 @@ for event in range(0,len(events)):
         tutc = d.split(' UTC')[0][-5:]
         #print(tutc)
 
-        dobj = tz.localize(datetime(2019, m, int(day), int(tutc[:2]), int(tutc[-2:])), is_dst=None)
+        dobj = tz.localize(datetime(year, m, int(day), int(tutc[:2]), int(tutc[-2:])), is_dst=None)
 
-        with open("x_astrocal19.org", "a") as myfile:
+        with open("x_astrocal" + str(year)[2:] + ".org", "a") as myfile:
             myfile.write('   <' + dobj.strftime('%Y-%m-%d %a %H:%M') + '>\n')
 #    if ',' in day:
 #        day = day.split(', ',1)[0]
@@ -92,19 +94,21 @@ for event in range(0,len(events)):
 
     else:
         #print(day)
-        dobj = datetime(2019,m,int(day))
+        dobj = datetime(year,m,int(day))
 
-        with open("x_astrocal19.org", "a") as myfile:
+        with open("x_astrocal" + str(year)[2:] + ".org", "a") as myfile:
             myfile.write('   <' + dobj.strftime('%Y-%m-%d %a') + '>\n')
        
 
 
     
-    with open("x_astrocal19.org", "a") as myfile:
+   # with open("x_astrocal19.org", "a") as myfile:
+    with open("x_astrocal" + str(year)[2:] + ".org", "a") as myfile:
         myfile.write(dt + '\n' + d + '\n')
 
         
-    with open("x_astrocal19.org", "a") as myfile:
+   # with open("x_astrocal19.org", "a") as myfile:
+    with open("x_astrocal" + str(year)[2:] + ".org", "a") as myfile:
         myfile.write('(copyright: seasky.org)'+ '\n')
 
 
