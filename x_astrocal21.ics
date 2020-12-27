@@ -1,0 +1,786 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:x_astrocal21
+PRODID:-//C.Çağrı Özkan//Emacs with Org mode//EN
+X-WR-TIMEZONE:+03
+X-WR-CALDESC:
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-e27429ca-b281-4555-8bad-da91c1bcc121
+DTSTART:20210128T191800
+DTEND:20210128T194800
+SUMMARY:Full Moon
+DESCRIPTION:<2021-01-28 Thu 19:18> January 28 The Moon will be located on t
+ he\nopposite side of the Earth as the Sun and its face will be will be\nfu
+ lly illuminated. This phase occurs at 19:18 UTC. This full moon was\nknown
+  by early Native American tribes as the Wolf Moon because this\nwas the ti
+ me of year when hungry wolf packs howled outside their\ncamps. This moon h
+ as also been know as the Old Moon and the Moon After\nYule. (copyright: se
+ asky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-b2c2db58-b2cf-4744-a2e2-faca1a93a7b9
+DTSTART:20210211T190800
+DTEND:20210211T193800
+SUMMARY:New Moon
+DESCRIPTION:<2021-02-11 Thu 19:08> February 11 The Moon will located on the
+ \nsame side of the Earth as the Sun and will not be visible in the night\n
+ sky. This phase occurs at 19:08 UTC. This is the best time of the\nmonth t
+ o observe faint objects such as galaxies and star clusters\nbecause there 
+ is no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-bf211138-378f-4115-adec-2c50b133f9ed
+DTSTART:20210227T081900
+DTEND:20210227T084900
+SUMMARY:Full Moon
+DESCRIPTION:<2021-02-27 Sat 08:19> February 27 The Moon will be located on 
+ the\nopposite side of the Earth as the Sun and its face will be will be\nf
+ ully illuminated. This phase occurs at 08:19 UTC. This full moon was\nknow
+ n by early Native American tribes as the Snow Moon because the\nheaviest s
+ nows usually fell during this time of the year. Since\nhunting is difficul
+ t\, this moon has also been known by some tribes as\nthe Hunger Moon\, sin
+ ce the harsh weather made hunting difficult.\n(copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-61a6bc93-7759-499e-85a1-0fa680f685b8
+DTSTART;VALUE=DATE:20210306
+DTEND;VALUE=DATE:20210307
+SUMMARY:Mercury at Greatest Western Elongation
+DESCRIPTION:<2021-03-06 Sat> March 6 The planet Mercury reaches greatest\nw
+ estern elongation of 27.3 degrees from the Sun. This is the best time\nto 
+ view Mercury since it will be at its highest point above the\nhorizon in t
+ he morning sky. Look for the planet low in the eastern sky\njust before su
+ nrise. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-76365f8b-318e-4f88-af87-cbf6332b935c
+DTSTART:20210313T102300
+DTEND:20210313T105300
+SUMMARY:New Moon
+DESCRIPTION:<2021-03-13 Sat 10:23> March 13 The Moon will located on the sa
+ me\nside of the Earth as the Sun and will not be visible in the night sky.
+ \nThis phase occurs at 10:23 UTC. This is the best time of the month to\no
+ bserve faint objects such as galaxies and star clusters because there\nis 
+ no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-856eea59-2785-4cb4-84e6-051e7c499172
+DTSTART:20210320T092700
+DTEND:20210320T095700
+SUMMARY:March Equinox
+DESCRIPTION:<2021-03-20 Sat 09:27> March 20 The March equinox occurs at 09:
+ 27\nUTC. The Sun will shine directly on the equator and there will be\nnea
+ rly equal amounts of day and night throughout the world. This is\nalso the
+  first day of spring (vernal equinox) in the Northern\nHemisphere and the 
+ first day of fall (autumnal equinox) in the\nSouthern Hemisphere. (copyrig
+ ht: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-f4528dd0-675f-401c-9251-6bb43669ac59
+DTSTART;VALUE=DATE:20210320
+DTEND;VALUE=DATE:20210321
+SUMMARY:Venus at Greatest Western Elongation
+DESCRIPTION:<2021-03-20 Sat> March 20 The planet Venus reaches greatest eas
+ tern\nelongation of 46.6 degrees from the Sun. This is the best time to vi
+ ew\nVenus since it will be at its highest point above the horizon in the\n
+ morning sky. Look for the bright planet in the eastern sky before\nsunrise
+ . (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-4b51313e-849e-4fc2-8efb-51c086f52e72
+DTSTART:20210328T184900
+DTEND:20210328T191900
+SUMMARY:Full Moon
+DESCRIPTION:<2021-03-28 Sun 18:49> March 28 The Moon will be located on the
+ \nopposite side of the Earth as the Sun and its face will be will be\nfull
+ y illuminated. This phase occurs at 18:49 UTC. This full moon was\nknown b
+ y early Native American tribes as the Worm Moon because this\nwas the time
+  of year when the ground would begin to soften and the\nearthworms would r
+ eappear. This moon has also been known as the Crow\nMoon\, the Crust Moon\
+ , the Sap Moon\, and the Lenten Moon.\n\n(copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-610c4f4f-01ef-4f0b-9b2d-4eaa3932581e
+DTSTART:20210412T023200
+DTEND:20210412T030200
+SUMMARY:New Moon
+DESCRIPTION:<2021-04-12 Mon 02:32> April 12 The Moon will located on the sa
+ me\nside of the Earth as the Sun and will not be visible in the night sky.
+ \nThis phase occurs at 02:32 UTC. This is the best time of the month to\no
+ bserve faint objects such as galaxies and star clusters because there\nis 
+ no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-1b97783f-cf33-40f4-a1de-eea7d147bdf3
+DTSTART;VALUE=DATE:20210422
+DTEND;VALUE=DATE:20210423
+SUMMARY:Lyrids Meteor Shower
+DESCRIPTION:<2021-04-22 Thu> April 22\, 23 The Lyrids is an average shower\
+ ,\nusually producing about 20 meteors per hour at its peak. It is\nproduce
+ d by dust particles left behind by comet C/1861 G1 Thatcher\,\nwhich was d
+ iscovered in 1861. The shower runs annually from April\n16-25. It peaks th
+ is year on the night of the night of the 22nd and\nmorning of the 23rd. Th
+ ese meteors can sometimes produce bright dust\ntrails that last for severa
+ l seconds. The nearly full moon will be a\nproblem this year. Its glare wi
+ ll block out all but the brightest\nmeteors. But if you are patient you ma
+ y still be able to catch a few\ngood ones. Best viewing will be from a dar
+ k location after midnight.\nMeteors will radiate from the constellation Ly
+ ra\, but can appear\nanywhere in the sky. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-221321dd-2065-4dbd-83b7-38f124671bd8
+DTSTART:20210427T033300
+DTEND:20210427T040300
+SUMMARY:Full Moon\, Supermoon
+DESCRIPTION:<2021-04-27 Tue 03:33> April 27 The Moon will be located on the
+ \nopposite side of the Earth as the Sun and its face will be will be\nfull
+ y illuminated. This phase occurs at 03:33 UTC. This full moon was\nknown b
+ y early Native American tribes as the Pink Moon because it\nmarked the app
+ earance of the moss pink\, or wild ground phlox\, which is\none of the fir
+ st spring flowers. This moon has also been known as the\nSprouting Grass M
+ oon\, the Growing Moon\, and the Egg Moon. Many coastal\ntribes called it 
+ the Fish Moon because this was the time that the shad\nswam upstream to sp
+ awn. This is also the first of three supermoons for\n2021. The Moon will b
+ e near its closest approach to the Earth and may\nlook slightly larger and
+  brighter than usual. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-6dac4333-fa1e-4ec1-b4ec-1556a80264a0
+DTSTART;VALUE=DATE:20210506
+DTEND;VALUE=DATE:20210507
+SUMMARY:Eta Aquarids Meteor Shower
+DESCRIPTION:<2021-05-06 Thu> May 6\, 7 The Eta Aquarids is an above average
+ \nshower\, capable of producing up to 60 meteors per hour at its peak.\nMo
+ st of the activity is seen in the Southern Hemisphere. In the\nNorthern He
+ misphere\, the rate can reach about 30 meteors per hour. It\nis produced b
+ y dust particles left behind by comet Halley\, which has\nbeen observed si
+ nce ancient times. The shower runs annually from April\n19 to May 28. It p
+ eaks this year on the night of May 6 and the morning\nof the May 7. The se
+ cond quarter moon will block out some of the\nfaintest meteors this year. 
+ But if you are patient\, you should still\nshould be able to catch quite a
+  few good ones. Best viewing will be\nfrom a dark location after midnight.
+  Meteors will radiate from the\nconstellation Aquarius\, but can appear an
+ ywhere in the sky.\n(copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-32060069-6744-4dca-853f-25856239624a
+DTSTART:20210511T190100
+DTEND:20210511T193100
+SUMMARY:New Moon
+DESCRIPTION:<2021-05-11 Tue 19:01> May 11 The Moon will located on the same
+ \nside of the Earth as the Sun and will not be visible in the night sky.\n
+ This phase occurs at 19:01 UTC. This is the best time of the month to\nobs
+ erve faint objects such as galaxies and star clusters because there\nis no
+  moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-6b4e158d-e4f8-4b27-80bf-ee85c885ae02
+DTSTART;VALUE=DATE:20210517
+DTEND;VALUE=DATE:20210518
+SUMMARY:Mercury at Greatest Eastern Elongation
+DESCRIPTION:<2021-05-17 Mon> May 17 The planet Mercury reaches greatest eas
+ tern\nelongation of 22 degrees from the Sun. This is the best time to view
+ \nMercury since it will be at its highest point above the horizon in the\n
+ evening sky. Look for the planet low in the western sky just after\nsunset
+ . (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-2317a109-d13f-4cad-805f-1c311da85ffe
+DTSTART:20210526T111400
+DTEND:20210526T114400
+SUMMARY:Full Moon\, Supermoon
+DESCRIPTION:<2021-05-26 Wed 11:14> May 26 The Moon will be located on the\n
+ opposite side of the Earth as the Sun and its face will be will be\nfully 
+ illuminated. This phase occurs at 11:14 UTC. This full moon was\nknown by 
+ early Native American tribes as the Flower Moon because this\nwas the time
+  of year when spring flowers appeared in abundance. This\nmoon has also be
+ en known as the Corn Planting Moon and the Milk Moon.\nThis is also the se
+ cond of three supermoons for 2021. The Moon will be\nnear its closest appr
+ oach to the Earth and may look slightly larger\nand brighter than usual. (
+ copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-d3be2b3f-7beb-4c04-a22c-e7200fec4189
+DTSTART;VALUE=DATE:20210526
+DTEND;VALUE=DATE:20210527
+SUMMARY:Total Lunar Eclipse
+DESCRIPTION:<2021-05-26 Wed> May 26 A total lunar eclipse occurs when the M
+ oon\npasses completely through the Earth's dark shadow\, or umbra. During\
+ nthis type of eclipse\, the Moon will gradually get darker and then take\n
+ on a rusty or blood red color. The eclipse will be visible throughout\nthe
+  Pacific Ocean and parts of eastern Asia\, Japan\, Australia\, and\nwester
+ n North America. (NASA Map and Eclipse Information) (copyright:\nseasky.or
+ g)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-646940dc-9829-46fe-8493-3cf402f4e4fd
+DTSTART:20210610T105400
+DTEND:20210610T112400
+SUMMARY:New Moon
+DESCRIPTION:<2021-06-10 Thu 10:54> June 10 The Moon will located on the sam
+ e\nside of the Earth as the Sun and will not be visible in the night sky.\
+ nThis phase occurs at 10:54 UTC. This is the best time of the month to\nob
+ serve faint objects such as galaxies and star clusters because there\nis n
+ o moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-474ad9a3-7ff1-44ad-a736-6a8e31a48570
+DTSTART;VALUE=DATE:20210610
+DTEND;VALUE=DATE:20210611
+SUMMARY:Annular Solar Eclipse
+DESCRIPTION:<2021-06-10 Thu> June 10 An annular solar eclipse occurs when t
+ he\nMoon is too far away from the Earth to completely cover the Sun. This\
+ nresults in a ring of light around the darkened Moon. The Sun's corona\nis
+  not visible during an annular eclipse. The path of this eclipse\nwill be 
+ confined to extreme eastern Russia\, the Arctic Ocean\, western\nGreenland
+ \, and Canada. A partial eclipse will be visible in the\nnortheastern Unit
+ ed States\, Europe\, and most of Russia. (NASA Map and\nEclipse Informatio
+ n) (NASA Interactive Google Map) (copyright:\nseasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145131Z
+UID:TS1-d6e7ed5d-bed6-4816-9766-69aa9539b5b2
+DTSTART:20210621T032100
+DTEND:20210621T035100
+SUMMARY:June Solstice
+DESCRIPTION:<2021-06-21 Mon 03:21> June 21 The June solstice occurs at 03:2
+ 1\nUTC. The North Pole of the earth will be tilted toward the Sun\, which\
+ nwill have reached its northernmost position in the sky and will be\ndirec
+ tly over the Tropic of Cancer at 23.44 degrees north latitude.\nThis is th
+ e first day of summer (summer solstice) in the Northern\nHemisphere and th
+ e first day of winter (winter solstice) in the\nSouthern Hemisphere. (copy
+ right: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-c865db22-59f8-4647-b931-4199c7f6dc4c
+DTSTART:20210624T184000
+DTEND:20210624T191000
+SUMMARY:Full Moon\, Supermoon
+DESCRIPTION:<2021-06-24 Thu 18:40> June 24 The Moon will be located on the\
+ nopposite side of the Earth as the Sun and its face will be will be\nfully
+  illuminated. This phase occurs at 18:40 UTC. This full moon was\nknown by
+  early Native American tribes as the Strawberry Moon because\nit signaled 
+ the time of year to gather ripening fruit. It also\ncoincides with the pea
+ k of the strawberry harvesting season. This moon\nhas also been known as t
+ he Rose Moon and the Honey Moon. This is also\nthe last of three supermoon
+ s for 2021. The Moon will be near its\nclosest approach to the Earth and m
+ ay look slightly larger and\nbrighter than usual. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-0ba9ed0b-5404-478d-aab1-32cef57de157
+DTSTART;VALUE=DATE:20210704
+DTEND;VALUE=DATE:20210705
+SUMMARY:Mercury at Greatest Western Elongation
+DESCRIPTION:<2021-07-04 Sun> July 4 The planet Mercury reaches greatest wes
+ tern\nelongation of 21.6 degrees from the Sun. This is the best time to vi
+ ew\nMercury since it will be at its highest point above the horizon in the
+ \nmorning sky. Look for the planet low in the eastern sky just before\nsun
+ rise. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-daae6a19-5582-46cd-b433-77050154544c
+DTSTART:20210710T011700
+DTEND:20210710T014700
+SUMMARY:New Moon
+DESCRIPTION:<2021-07-10 Sat 01:17> July 10 The Moon will located on the sam
+ e\nside of the Earth as the Sun and will not be visible in the night sky.\
+ nThis phase occurs at 01:17 UTC. This is the best time of the month to\nob
+ serve faint objects such as galaxies and star clusters because there\nis n
+ o moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-0bb906b2-f3d5-41bb-bace-ec11759281e9
+DTSTART:20210724T023700
+DTEND:20210724T030700
+SUMMARY:Full Moon
+DESCRIPTION:<2021-07-24 Sat 02:37> July 24 The Moon will be located on the\
+ nopposite side of the Earth as the Sun and its face will be will be\nfully
+  illuminated. This phase occurs at 02:37 UTC. This full moon was\nknown by
+  early Native American tribes as the Buck Moon because the\nmale buck deer
+  would begin to grow their new antlers at this time of\nyear. This moon ha
+ s also been known as the Thunder Moon and the Hay\nMoon. (copyright: seask
+ y.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-c8b12e0c-efb0-452e-a27e-3dc7e5221ab7
+DTSTART;VALUE=DATE:20210728
+DTEND;VALUE=DATE:20210729
+SUMMARY:Delta Aquarids Meteor Shower
+DESCRIPTION:<2021-07-28 Wed> July 28\, 29 The Delta Aquarids is an average\
+ nshower that can produce up to 20 meteors per hour at its peak. It is\npro
+ duced by debris left behind by comets Marsden and Kracht. The\nshower runs
+  annually from July 12 to August 23. It peaks this year on\nthe night of J
+ uly 28 and morning of July 29. The nearly full moon will\nbe a problem thi
+ s year. It's glare will block block most of the\nfaintest meteors. But if 
+ you are patient\, you should still be able to\ncatch a few good ones. Best
+  viewing will be from a dark location after\nmidnight. Meteors will radiat
+ e from the constellation Aquarius\, but\ncan appear anywhere in the sky. (
+ copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-22de24f2-b184-4043-9fc9-fcb328412a00
+DTSTART;VALUE=DATE:20210802
+DTEND;VALUE=DATE:20210803
+SUMMARY:Saturn at Opposition
+DESCRIPTION:<2021-08-02 Mon> August 2 The ringed planet will be at its clos
+ est\napproach to Earth and its face will be fully illuminated by the Sun.\
+ nIt will be brighter than any other time of the year and will be\nvisible 
+ all night long. This is the best time to view and photograph\nSaturn and i
+ ts moons. A medium-sized or larger telescope will allow\nyou to see Saturn
+ 's rings and a few of its brightest moons.\n(copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-81aa7145-26ea-49ab-afd6-b3968eed339d
+DTSTART:20210808T135100
+DTEND:20210808T142100
+SUMMARY:New Moon
+DESCRIPTION:<2021-08-08 Sun 13:51> August 8 The Moon will located on the sa
+ me\nside of the Earth as the Sun and will not be visible in the night sky.
+ \nThis phase occurs at 13:51 UTC. This is the best time of the month to\no
+ bserve faint objects such as galaxies and star clusters because there\nis 
+ no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-0c1a890f-90a9-4c0a-bf4a-4e1886127c85
+DTSTART;VALUE=DATE:20210812
+DTEND;VALUE=DATE:20210813
+SUMMARY:Perseids Meteor Shower
+DESCRIPTION:<2021-08-12 Thu> August 12\, 13 The Perseids is one of the best
+ \nmeteor showers to observe\, producing up to 60 meteors per hour at its\n
+ peak. It is produced by comet Swift-Tuttle\, which was discovered in\n1862
+ . The Perseids are famous for producing a large number of bright\nmeteors.
+  The shower runs annually from July 17 to August 24. It peaks\nthis year o
+ n the night of August 12 and the morning of August 13. The\nwaxing crescen
+ t moon will set early in the evening\, leaving dark skies\nfor what should
+  be an excellent show. Best viewing will be from a dark\nlocation after mi
+ dnight. Meteors will radiate from the constellation\nPerseus\, but can app
+ ear anywhere in the sky. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-838b66b3-3fd2-4cc8-899a-82f2451fd621
+DTSTART;VALUE=DATE:20210819
+DTEND;VALUE=DATE:20210820
+SUMMARY:Jupiter at Opposition
+DESCRIPTION:<2021-08-19 Thu> August 19 The giant planet will be at its clos
+ est\napproach to Earth and its face will be fully illuminated by the Sun.\
+ nIt will be brighter than any other time of the year and will be\nvisible 
+ all night long. This is the best time to view and photograph\nJupiter and 
+ its moons. A medium-sized telescope should be able to show\nyou some of th
+ e details in Jupiter's cloud bands. A good pair of\nbinoculars should allo
+ w you to see Jupiter's four largest moons\,\nappearing as bright dots on e
+ ither side of the planet. (copyright:\nseasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-f2221785-86ba-4cc5-8c23-4405f1e7fc0d
+DTSTART:20210822T120200
+DTEND:20210822T123200
+SUMMARY:Full Moon\, Blue Moon
+DESCRIPTION:<2021-08-22 Sun 12:02> August 22 The Moon will be located on th
+ e\nopposite side of the Earth as the Sun and its face will be will be\nful
+ ly illuminated. This phase occurs at 12:02 UTC. This full moon was\nknown 
+ by early Native American tribes as the Sturgeon Moon because the\nlarge st
+ urgeon fish of the Great Lakes and other major lakes were more\neasily cau
+ ght at this time of year. This moon has also been known as\nthe Green Corn
+  Moon and the Grain Moon. Since this is the third of\nfour full moons in t
+ his season\, it is known as a blue moon. This rare\ncalendar event only ha
+ ppens once every few years\, giving rise to the\nterm\, “once in a blue mo
+ on.” There are normally only three full moons\nin each season of the year.
+  But since full moons occur every\n29.53 days\, occasionally a season will
+  contain 4 full moons. The extra\nfull moon of the season is known as a bl
+ ue moon. Blue moons occur on\naverage once every 2.7 years. (copyright: se
+ asky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-1f5cfa9c-4b3d-475e-88d9-d763f4af38c3
+DTSTART:20210907T005200
+DTEND:20210907T012200
+SUMMARY:New Moon
+DESCRIPTION:<2021-09-07 Tue 00:52> September 7 The Moon will located on the
+ \nsame side of the Earth as the Sun and will not be visible in the night\n
+ sky. This phase occurs at 00:52 UTC. This is the best time of the\nmonth t
+ o observe faint objects such as galaxies and star clusters\nbecause there 
+ is no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-710f751f-33d7-4cc0-8937-14a0bab0f74e
+DTSTART;VALUE=DATE:20210914
+DTEND;VALUE=DATE:20210915
+SUMMARY:Neptune at Opposition
+DESCRIPTION:<2021-09-14 Tue> September 14 The blue giant planet will be at 
+ its\nclosest approach to Earth and its face will be fully illuminated by\n
+ the Sun. It will be brighter than any other time of the year and will\nbe 
+ visible all night long. This is the best time to view and\nphotograph Nept
+ une. Due to its extreme distance from Earth\, it will\nonly appear as a ti
+ ny blue dot in all but the most powerful\ntelescopes. (copyright: seasky.o
+ rg)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-ee67220a-974c-46ed-8477-403ad2eccbb5
+DTSTART;VALUE=DATE:20210914
+DTEND;VALUE=DATE:20210915
+SUMMARY:Mercury at Greatest Eastern Elongation
+DESCRIPTION:<2021-09-14 Tue> September 14 The planet Mercury reaches greate
+ st\neastern elongation of 26.8 degrees from the Sun. This is the best time
+ \nto view Mercury since it will be at its highest point above the\nhorizon
+  in the evening sky. Look for the planet low in the western sky\njust afte
+ r sunset. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-d8ab7ddc-c806-4287-a844-00092505f2e3
+DTSTART:20210920T235400
+DTEND:20210921T002400
+SUMMARY:Full Moon
+DESCRIPTION:<2021-09-20 Mon 23:54> September 20 The Moon will be located on
+  the\nopposite side of the Earth as the Sun and its face will be will be\n
+ fully illuminated. This phase occurs at 23:54 UTC. This full moon was\nkno
+ wn by early Native American tribes as the Corn Moon because the\ncorn is h
+ arvested around this time of year. This moon is also known as\nthe Harvest
+  Moon. The Harvest Moon is the full moon that occurs\nclosest to the Septe
+ mber equinox each year. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-add2f46d-b51e-4709-a830-c5ed631b2f3d
+DTSTART:20210922T191100
+DTEND:20210922T194100
+SUMMARY:September Equinox
+DESCRIPTION:<2021-09-22 Wed 19:11> September 22 The September equinox occur
+ s at\n19:11 UTC. The Sun will shine directly on the equator and there will
+ \nbe nearly equal amounts of day and night throughout the world. This is\n
+ also the first day of fall (autumnal equinox) in the Northern\nHemisphere 
+ and the first day of spring (vernal equinox) in the\nSouthern Hemisphere. 
+ (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-a1c3ecb2-57c9-48b4-84ad-61cf87900a69
+DTSTART:20211006T110500
+DTEND:20211006T113500
+SUMMARY:New Moon
+DESCRIPTION:<2021-10-06 Wed 11:05> October 6 The Moon will located on the s
+ ame\nside of the Earth as the Sun and will not be visible in the night sky
+ .\nThis phase occurs at 11:05 UTC. This is the best time of the month to\n
+ observe faint objects such as galaxies and star clusters because there\nis
+  no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-95158bc5-9542-4bda-a1ab-66e0eecc9bfa
+DTSTART;VALUE=DATE:20211007
+DTEND;VALUE=DATE:20211008
+SUMMARY:Draconids Meteor Shower
+DESCRIPTION:<2021-10-07 Thu> October 7 The Draconids is a minor meteor show
+ er\nproducing only about 10 meteors per hour. It is produced by dust\ngrai
+ ns left behind by comet 21P Giacobini-Zinner\, which was first\ndiscovered
+  in 1900. The Draconids is an unusual shower in that the\nbest viewing is 
+ in the early evening instead of early morning like\nmost other showers. Th
+ e shower runs annually from October 6-10 and\npeaks this year on the the n
+ ight of the 7th. This year\, the nearly new\nmoon will leave dark skies fo
+ r what should be an excellent show. Best\nviewing will be in the early eve
+ ning from a dark location far away\nfrom city lights. Meteors will radiate
+  from the constellation Draco\,\nbut can appear anywhere in the sky. (copy
+ right: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-4fa6bca3-81e3-4f27-bf89-a1f22d12115f
+DTSTART:20211020T145700
+DTEND:20211020T152700
+SUMMARY:Full Moon
+DESCRIPTION:<2021-10-20 Wed 14:57> October 20 The Moon will be located on t
+ he\nopposite side of the Earth as the Sun and its face will be will be\nfu
+ lly illuminated. This phase occurs at 14:57 UTC. This full moon was\nknown
+  by early Native American tribes as the Hunters Moon because at\nthis time
+  of year the leaves are falling and the game is fat and ready\nto hunt. Th
+ is moon has also been known as the Travel Moon and the\nBlood Moon.\n\n(co
+ pyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-d1d68f05-e408-4218-9aa4-481cc2724faf
+DTSTART;VALUE=DATE:20211021
+DTEND;VALUE=DATE:20211022
+SUMMARY:Orionids Meteor Shower
+DESCRIPTION:<2021-10-21 Thu> October 21\, 22 The Orionids is an average sho
+ wer\nproducing up to 20 meteors per hour at its peak. It is produced by\nd
+ ust grains left behind by comet Halley\, which has been known and\nobserve
+ d since ancient times. The shower runs annually from October 2\nto Novembe
+ r 7. It peaks this year on the night of October 21 and the\nmorning of Oct
+ ober 22. The full moon will be a problem this year for\nthe Orionids. Its 
+ glare will block out all but the brightest meteors.\nBut if you are patien
+ t\, you should still be able to catch a few good\nones. Best viewing will 
+ be from a dark location after midnight.\nMeteors will radiate from the con
+ stellation Orion\, but can appear\nanywhere in the sky. (copyright: seasky
+ .org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-aafe07fc-2479-4513-9c06-3b9cdcbb59ed
+DTSTART;VALUE=DATE:20211025
+DTEND;VALUE=DATE:20211026
+SUMMARY:Mercury at Greatest Western Elongation
+DESCRIPTION:<2021-10-25 Mon> October 25 The planet Mercury reaches greatest
+ \nwestern elongation of 18.4 degrees from the Sun. This is the best time\n
+ to view Mercury since it will be at its highest point above the\nhorizon i
+ n the morning sky. Look for the planet low in the eastern sky\njust before
+  sunrise. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-4f5b85bf-e423-4883-a173-bbb958c39350
+DTSTART;VALUE=DATE:20211029
+DTEND;VALUE=DATE:20211030
+SUMMARY:Venus at Greatest Eastern Elongation
+DESCRIPTION:<2021-10-29 Fri> October 29 The planet Venus reaches greatest\n
+ eastern elongation of 47 degrees from the Sun. This is the best time\nto v
+ iew Venus since it will be at its highest point above the horizon\nin the 
+ evening sky. Look for the bright planet in the western sky\nafter sunset. 
+ (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-c82fda61-d0bc-43da-b7d6-b210b18b7dfe
+DTSTART:20211104T211500
+DTEND:20211104T214500
+SUMMARY:New Moon
+DESCRIPTION:<2021-11-04 Thu 21:15> November 4 The Moon will located on the 
+ same\nside of the Earth as the Sun and will not be visible in the night sk
+ y.\nThis phase occurs at 21:15 UTC. This is the best time of the month to\
+ nobserve faint objects such as galaxies and star clusters because there\ni
+ s no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-1df847df-de0c-42d6-ba84-6cc28a6faba6
+DTSTART;VALUE=DATE:20211104
+DTEND;VALUE=DATE:20211105
+SUMMARY:Taurids Meteor Shower
+DESCRIPTION:<2021-11-04 Thu> November 4\, 5 The Taurids is a long-running m
+ inor\nmeteor shower producing only about 5-10 meteors per hour. It is\nunu
+ sual in that it consists of two separate streams. The first is\nproduced b
+ y dust grains left behind by Asteroid 2004 TG10. The second\nstream is pro
+ duced by debris left behind by Comet 2P Encke. The shower\nruns annually f
+ rom September 7 to December 10. It peaks this year on\nthe the night of No
+ vember 4. The new moon will leave dark skies this\nyear for what should be
+  an excellent show. Best viewing will be just\nafter midnight from a dark 
+ location far away from city lights. Meteors\nwill radiate from the constel
+ lation Taurus\, but can appear anywhere in\nthe sky. (copyright: seasky.or
+ g)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-d9fc074d-6aca-43a5-99bf-ef2226e2043f
+DTSTART;VALUE=DATE:20211105
+DTEND;VALUE=DATE:20211106
+SUMMARY:Uranus at Opposition
+DESCRIPTION:<2021-11-05 Fri> November 5 The blue-green planet will be at it
+ s\nclosest approach to Earth and its face will be fully illuminated by\nth
+ e Sun. It will be brighter than any other time of the year and will\nbe vi
+ sible all night long. This is the best time to view Uranus. Due\nto its di
+ stance\, it will only appear as a tiny blue-green dot in all\nbut the most
+  powerful telescopes. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-e526c92b-d69e-49e2-aad6-036824061a9b
+DTSTART;VALUE=DATE:20211117
+DTEND;VALUE=DATE:20211118
+SUMMARY:Leonids Meteor Shower
+DESCRIPTION:<2021-11-17 Wed> November 17\, 18 The Leonids is an average sho
+ wer\,\nproducing up to 15 meteors per hour at its peak. This shower is uni
+ que\nin that it has a cyclonic peak about every 33 years where hundreds of
+ \nmeteors per hour can be seen. That last of these occurred in 2001. The\n
+ Leonids is produced by dust grains left behind by comet Tempel-Tuttle\,\nw
+ hich was discovered in 1865. The shower runs annually from November\n6-30.
+  It peaks this year on the night of the 17th and morning of the\n18th. Unf
+ ortunately the nearly full moon will dominate the sky this\nyear\, blockin
+ g all but the brightest meteors. But if you are patient\,\nyou should stil
+ l be able to catch a few good ones. Best viewing will\nbe from a dark loca
+ tion after midnight. Meteors will radiate from the\nconstellation Leo\, bu
+ t can appear anywhere in the sky. (copyright:\nseasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-e965e742-2734-4473-83d1-d96855d316e8
+DTSTART:20211119T085900
+DTEND:20211119T092900
+SUMMARY:Full Moon
+DESCRIPTION:<2021-11-19 Fri 08:59> November 19 The Moon will be located on 
+ the\nopposite side of the Earth as the Sun and its face will be will be\nf
+ ully illuminated. This phase occurs at 08:59 UTC. This full moon was\nknow
+ n by early Native American tribes as the Beaver Moon because this\nwas the
+  time of year to set the beaver traps before the swamps and\nrivers froze.
+  It has also been known as the Frosty Moon and the Dark\nMoon. (copyright:
+  seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-55c12fcc-0aa8-4ce7-ac81-e6461d15b014
+DTSTART;VALUE=DATE:20211119
+DTEND;VALUE=DATE:20211120
+SUMMARY:Partial Lunar Eclipse
+DESCRIPTION:<2021-11-19 Fri> November 19 A partial lunar eclipse occurs whe
+ n\nthe Moon passes through the Earth's partial shadow\, or penumbra\, and\
+ nonly a portion of it passes through the darkest shadow\, or umbra.\nDurin
+ g this type of eclipse a part of the Moon will darken as it moves\nthrough
+  the Earth's shadow. The eclipse will be visible throughout\nmost of easte
+ rn Russia\, Japan\, the Pacific Ocean\, North America\,\nMexico\, Central 
+ America\, and parts of western South America. (NASA Map\nand Eclipse Infor
+ mation) (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-a97a4d48-57e2-4e74-ac47-88a8d13d68b5
+DTSTART:20211204T074400
+DTEND:20211204T081400
+SUMMARY:New Moon
+DESCRIPTION:<2021-12-04 Sat 07:44> December 4 The Moon will located on the 
+ same\nside of the Earth as the Sun and will not be visible in the night sk
+ y.\nThis phase occurs at 07:44 UTC. This is the best time of the month to\
+ nobserve faint objects such as galaxies and star clusters because there\ni
+ s no moonlight to interfere. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-e2334277-ce50-4ac5-99b5-16e352a08a8b
+DTSTART;VALUE=DATE:20211204
+DTEND;VALUE=DATE:20211205
+SUMMARY:Total Solar Eclipse
+DESCRIPTION:<2021-12-04 Sat> December 4 A total solar eclipse occurs when t
+ he\nmoon completely blocks the Sun\, revealing the Sun's beautiful outer\n
+ atmosphere known as the corona. The path of totality will for this\neclips
+ e will be limited to Antarctica and the southern Atlantic Ocean.\nA partia
+ l eclipse will bee visible throughout much of South Africa.\n(NASA Map and
+  Eclipse Information) (Interactive NASA Google)\n(copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-98dfbdec-bbca-4dd9-a757-a3e440b27672
+DTSTART;VALUE=DATE:20211213
+DTEND;VALUE=DATE:20211214
+SUMMARY:Geminids Meteor Shower
+DESCRIPTION:<2021-12-13 Mon> December 13\, 14 The Geminids is the king of t
+ he\nmeteor showers. It is considered by many to be the best shower in the\
+ nheavens\, producing up to 120 multicolored meteors per hour at its\npeak.
+  It is produced by debris left behind by an asteroid known as\n3200 Phaeth
+ on\, which was discovered in 1982. The shower runs annually\nfrom December
+  7-17. It peaks this year on the night of the 13th and\nmorning of the 14t
+ h. The waxing gibbous moon will block out most of\nthe fainter meteors thi
+ s year. But the Geminids are so numerous and\nbright that this could still
+  be a good show. Best viewing will be from\na dark location after midnight
+ . Meteors will radiate from the\nconstellation Gemini\, but can appear any
+ where in the sky. (copyright:\nseasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-5db61e66-296d-409d-8ba9-82b0b22a332f
+DTSTART:20211219T043700
+DTEND:20211219T050700
+SUMMARY:Full Moon
+DESCRIPTION:<2021-12-19 Sun 04:37> December 19 The Moon will be located on 
+ the\nopposite side of the Earth as the Sun and its face will be will be\nf
+ ully illuminated. This phase occurs at 04:37 UTC. This full moon was\nknow
+ n by early Native American tribes as the Cold Moon because this is\nthe ti
+ me of year when the cold winter air settles in and the nights\nbecome long
+  and dark. This moon has also been known as the Long Nights\nMoon and the 
+ Moon Before Yule. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201227T145132Z
+UID:TS1-531fe1b3-a524-40b6-8b46-cdae950e40ae
+DTSTART:20211221T155000
+DTEND:20211221T162000
+SUMMARY:December Solstice
+DESCRIPTION:<2021-12-21 Tue 15:50> December 21 The December solstice occurs
+  at\n15:50 UTC. The South Pole of the earth will be tilted toward the Sun\
+ ,\nwhich will have reached its southernmost position in the sky and will\n
+ be directly over the Tropic of Capricorn at 23.44 degrees south\nlatitude.
+  This is the first day of winter (winter solstice) in the\nNorthern Hemisp
+ here and the first day of summer (summer solstice) in\nthe Southern Hemisp
+ here. (copyright: seasky.org)
+CATEGORIES:x_astrocal21
+END:VEVENT
+END:VCALENDAR

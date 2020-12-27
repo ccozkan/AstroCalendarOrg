@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 import pytz 
 
-year = 2020
+year = 2021
 r = requests.get('http://www.seasky.org/astronomy/astronomy-calendar-' + str(year) + '.html')
 soup = BeautifulSoup(r.text,'html.parser')
 
