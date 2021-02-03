@@ -25,6 +25,6 @@ i may implement multiple year and multiple event day support, i may not.
 
 ## be aware
 
-the content on seaksy.org is copyrighted.
+the content on seasky.org is copyrighted.
 
 >Information contained within this site may be used for any personal, educational, and most non-commercial purposes as long as Sea and Sky is credited as the source.
